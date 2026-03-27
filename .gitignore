@@ -9,7 +9,6 @@ bin/gstack-global-discover
 .gstack-worktrees/
 /tmp/
 *.log
-bun.lock
 *.bun-build
 .env
 .env.local
